@@ -16,5 +16,4 @@ Predicts new COVID-19 cases for each country (Regression)
 - pandas, numpy
 - scikit-learn
 - imbalanced-learn
-- xgboost
 - matplotlib, seaborn
