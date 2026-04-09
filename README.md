@@ -7,9 +7,9 @@ Predicts new COVID-19 cases for each country (Regression)
 ## Features
 - Data cleaning and preprocessing
 - Feature selection and encoding
-- Handling imbalance and threshold tuning
+- Handling imbalance 
 - Model training and evaluation
-- Visualizations: Heatmaps, Feature Importance, PR curve
+- Visualizations: Heatmaps
 
 ## Requirements
 - Python 3.8+
